@@ -1,4 +1,8 @@
+using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using Uninove.web.Models;
+
+namespace Uninove.web.Controllers;
 
 public class AlunoController : Controller
 {
